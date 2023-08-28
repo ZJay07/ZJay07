@@ -34,4 +34,4 @@ Trello	![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the
 
 ## Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ZJay07&theme=midnight-purple&hide_border=false)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZJay07&theme=black-ice)](https://git.io/streak-stats)
