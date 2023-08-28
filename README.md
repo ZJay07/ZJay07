@@ -34,7 +34,4 @@ Trello	![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the
 
 ## Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ZJay07&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZJay07&hide=TeX&layout=compact&theme=prussian)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ZJay07.ZJay07)
+![Jay's github stats](https://github-readme-stats.vercel.app/api?username=ZJay-7)
