@@ -32,4 +32,4 @@ Trello	![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the
 
 ## Stats
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![Jay's github stats](https://github-readme-stats.vercel.app/api?username=ZJay07)
