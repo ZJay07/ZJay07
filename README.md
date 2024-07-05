@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Jay, a penultimate-year MEng Computer Science student at UCL!
+I am Jay, a final year MEng Computer Science student at UCL!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zheng-jay-choy-94293621a/)
 
